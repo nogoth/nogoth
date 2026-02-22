@@ -82,7 +82,7 @@ Hi! I'm Benjamin (he/him), based in Belgrade, MT. I'm a backend and cloud system
 <div align="center">
 
 <!-- TOP LANGUAGES -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogoth&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nogoth&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
