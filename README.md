@@ -23,7 +23,7 @@
 
 ```typescript
 const benjaminLivingood = {
-    pronouns: "He" | "Him",
+    pronouns: "He/Him",
     location: "Belgrade, MT, USA",
     code: ["Go", "Java", "Kotlin", "Python", "Perl", "Bash"],
     technologies: {
@@ -78,9 +78,6 @@ const benjaminLivingood = {
 
 <div align="center">
 
-<!-- GITHUB STATS CARD -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nogoth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
 <!-- GITHUB STREAK STATS -->
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nogoth&theme=tokyonight"/>
 
@@ -93,31 +90,19 @@ const benjaminLivingood = {
 
 </div>
 
-<!-- GITHUB TROPHY -->
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nogoth&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 🎯 Current Focus
 
-```yaml
-current_status:
-  looking_for: "Senior Software Engineer / Staff Engineer / SDET roles"
-  open_to:
-    - "Remote"
-    - "Hybrid"
-    - "Bozeman/Belgrade MT area"
-  core_strengths:
-    - "Cloud infrastructure & Kubernetes"
-    - "Production reliability & incident response"
-    - "Backend systems (Go/Java/Kotlin)"
-    - "Compliance & security (FIPS 140-2)"
-  availability: "Available for immediate opportunities"
-```
+🔭 **Looking for:** Senior Software Engineer / Staff Engineer / SDET roles
+
+🌍 **Open to:** Remote, Hybrid, or Bozeman/Belgrade MT area
+
+💡 **Core strengths:** Cloud infrastructure & Kubernetes • Production reliability • Backend systems (Go/Java/Kotlin) • Compliance & security (FIPS 140-2)
+
+⚡ **Availability:** Ready for immediate opportunities
+
+💬 **Ask me about:** Production systems, scaling infrastructure, or how to save $1.6M in licensing costs!
 
 ---
 
@@ -226,6 +211,8 @@ Center for Computational Biology & Research Computing Group. Foundational experi
 
 <div align="center">
 
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
+⭐️ From [nogoth](https://github.com/nogoth) | Made with ❤️ and ☕
 
 </div>
