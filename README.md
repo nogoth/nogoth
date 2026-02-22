@@ -21,22 +21,20 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const benjaminLivingood = {
-    pronouns: "He/Him",
-    location: "Belgrade, MT, USA",
-    code: ["Go", "Java", "Kotlin", "Python", "Perl", "Bash"],
-    technologies: {
-        cloud: ["AWS", "Kubernetes", "Docker", "Helm"],
-        observability: ["New Relic", "Splunk", "Grafana", "Sumo"],
-        cicd: ["GitHub Actions", "Maven", "Git"],
-        databases: ["MySQL", "Cassandra", "MongoDB", "RDS"]
-    },
-    currentFocus: "Open to new opportunities in backend/cloud engineering",
-    experience: "25+ years in systems engineering and production reliability",
-    funFact: "Saved $1.6M in licensing costs by replacing proprietary software with open source"
-};
-```
+Hi! I'm Benjamin (he/him), based in Belgrade, MT. I'm a backend and cloud systems engineer with **25+ years** of experience building stable, scalable production systems. I specialize in infrastructure reliability, cloud-native architecture, and driving meaningful cost savings through strategic technology decisions.
+
+**Languages I code in:**
+- Go, Java, Kotlin, Python, Perl, Bash
+
+**Technologies I work with:**
+- **Cloud & Infrastructure:** AWS, Kubernetes, Docker, Helm, Terraform
+- **Observability & Monitoring:** New Relic, Splunk, Grafana, Sumo Logic
+- **Databases:** MySQL, Cassandra, MongoDB, RDS
+- **CI/CD & Tools:** GitHub Actions, Maven, Git
+
+**What I'm looking for:** I'm actively seeking opportunities as a Senior Software Engineer, Staff Engineer, or SDET—remote, hybrid, or in the Bozeman/Belgrade area.
+
+**Fun fact:** I saved my last company $1.6M in licensing costs by replacing proprietary software with open source alternatives.
 
 ---
 
