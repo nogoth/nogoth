@@ -75,8 +75,6 @@ Hi! I'm Benjamin (he/him), based in Belgrade, MT. I'm a backend and cloud system
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nogoth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nogoth&layout=compact&langs_count=8&theme=tokyonight"/>
-
 </div>
 
 <div align="center">
