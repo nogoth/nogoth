@@ -24,9 +24,10 @@ Hi! I'm Benjamin (he/him), based in Belgrade, MT. I'm a backend and cloud system
 - Go, Java, Kotlin, Python, Perl, Bash
 
 **Technologies I work with:**
-- **Cloud & Infrastructure:** AWS, Kubernetes, Docker, Helm, Terraform
-- **Observability & Monitoring:** New Relic, Splunk, Grafana, Sumo Logic
+- **Cloud & Infrastructure:** AWS, Kubernetes, Docker, Helm, Terraform, Rancher, KEDA
+- **Observability & Monitoring:** New Relic, Splunk, Grafana, Sumo Logic, Datadog, OpenTelemetry
 - **Databases:** MySQL, Cassandra, MongoDB, RDS
+- **Messaging:** NATS
 - **CI/CD & Tools:** GitHub Actions, Maven, Git
 
 **What I'm looking for:** I'm actively seeking opportunities as a Senior Software Engineer, Staff Engineer, or SDET—remote, hybrid, or in the Bozeman/Belgrade area.
@@ -50,12 +51,19 @@ Hi! I'm Benjamin (he/him), based in Belgrade, MT. I'm a backend and cloud system
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![KEDA](https://img.shields.io/badge/KEDA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📊 Observability & Monitoring
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+### 📨 Messaging
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
 
 ### 🔄 CI/CD & Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
