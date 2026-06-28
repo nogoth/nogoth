@@ -2,7 +2,7 @@
 
 # Benjamin Livingood
 
-**Infrastructure Engineer · Cloud Reliability · 15 Years in Production**
+**Infrastructure Engineer · Cloud Reliability **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamin-livingood-ms-a135438)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:livingood@gmail.com)
@@ -13,7 +13,7 @@
 
 I build and run distributed systems at scale: reliability, cloud infrastructure, and the platform work that keeps teams shipping. These days I'm building LLM agent infrastructure in the open.
 
-Open to Senior SWE / Staff Engineer / SRE roles. Remote.
+Open to Infrastructure Engineer / Senior SWE / Staff Engineer / SRE roles. Remote or Hybrid or On-site
 
 ---
 
