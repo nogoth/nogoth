@@ -35,6 +35,7 @@ Open to Infrastructure Engineer / Senior SWE / Staff Engineer / SRE roles. Remot
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nogoth&theme=tokyonight)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nogoth&theme=tokyonight)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nogoth&theme=tokyonight&exclude=Emacs%20Lisp)
 
 </div>
 
