@@ -11,7 +11,7 @@
 
 ---
 
-I build and operate distributed systems at scale — infrastructure reliability, cloud-native architecture, and platform work that keeps teams shipping. 13 years at Workiva; currently building LLM agent infrastructure in the open.
+I build and run distributed systems at scale: reliability, cloud infrastructure, and the platform work that keeps teams shipping. These days I'm building LLM agent infrastructure in the open.
 
 Open to Senior SWE / Staff Engineer / SRE roles. Remote.
 
@@ -42,7 +42,7 @@ Open to Senior SWE / Staff Engineer / SRE roles. Remote.
 
 ## Highlights
 
-- 💰 Migrated a high-throughput distributed system across 100s of nodes to an open-source licensing alternative, saving **$1.6M/year** — planned, validated, and executed with zero downtime
+- 💰 Migrated a high-throughput distributed system across 100s of nodes to an open-source licensing alternative, saving **$1.6M/year**. Zero downtime, start to finish
 - ☁️ Identified and eliminated idle compute waste across all Kubernetes clusters through scheduled scaling, cutting **$100K/year** in cloud spend
 - ⚡ Migrated all team repos to GitHub Actions in **3 days**, 2 months ahead of deadline
 - 📊 Full-stack observability: OpenTelemetry → Grafana SLI/SLO for production GRC platform
@@ -92,7 +92,7 @@ Open to Senior SWE / Staff Engineer / SRE roles. Remote.
 ## Work Experience
 
 ### Infrastructure Engineer (Independent) · Oct 2025–Present
-*planefs, geminon — see above*
+*planefs, geminon (see above)*
 
 ### Software Development Engineer in Test · Workiva · Jun 2023–Sep 2025
 - 🔐 FIPS 140-2 compliance test suites (Kotlin/Java)
