@@ -100,7 +100,7 @@ Hi! I'm Benjamin (he/him), based in Belgrade, MT. I'm a backend and cloud system
 
 🌍 **Open to:** Remote, Hybrid, or Bozeman/Belgrade MT area
 
-💡 **Core strengths:** Cloud infrastructure & Kubernetes • Production reliability • Backend systems (Go/Java/Kotlin) • Compliance & security (FIPS 140-2)
+💡 **Core strengths:** Cloud infrastructure & Kubernetes • Production reliability • Backend systems (Go/Java/Kotlin) • Compliance & security (FIPS 140-2, FedRAMP, SOX)
 
 ⚡ **Availability:** Ready for immediate opportunities
 
@@ -195,7 +195,7 @@ Center for Computational Biology & Research Computing Group. Foundational experi
 - **$1.6M** in licensing cost savings through strategic technology decisions
 - **$100K+** in annual cloud infrastructure cost optimization
 - **5x increase** in deployment frequency through CI/CD optimization
-- **FIPS 140-2 compliance** implementation and automation
+- **Compliance:** FIPS 140-2, FedRAMP, SOX — implementation, automation, and audit support
 
 ---
 
