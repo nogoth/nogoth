@@ -110,6 +110,27 @@ Hi! I'm Benjamin (he/him), based in Belgrade, MT. I'm a backend and cloud system
 
 ## 💼 Work Experience
 
+### 🏗️ Independent Research Engineer
+**📅 October 2025 - Present** | **📍 Remote**
+
+Building experimental infrastructure at the intersection of LLM agents, Unix primitives, and AI-native tooling.
+
+**Projects:**
+
+**[planefs](https://github.com/nogoth/planefs)** — POSIX filesystem interface for multi-agent LLM systems
+- Mounts LLM agents as Plan 9-style filesystems; tools are directories, invocation is a write + read
+- Standard Unix toolchain (cat, echo, grep, diff) becomes the agent interface with no glue code
+- Aligns with Anthropic's MCP tool-delivery model; takes the "tools as files" idea to its logical conclusion
+
+**[geminon](https://github.com/nogoth/geminon)** — Gemini CLI skills framework and AI-native workspace
+- Skills for research memory, context rehydration, LinkedIn content generation, and session summarization
+- Extended with a full-stack ticket tracker (Go/SQLite API + Python SDK + Vue frontend)
+- Includes Gemini-validated CLI extensions and tooling
+
+**Technologies:** Python, Go, Vue.js, FUSE, LLM agent frameworks, MCP
+
+---
+
 ### 🏢 Software Development Engineer in Test @ Workiva
 **📅 June 2023 - September 2025** | **📍 Bozeman, MT**
 
