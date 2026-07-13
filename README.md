@@ -21,6 +21,7 @@ Open to Infrastructure Engineer / Senior SWE / Staff Engineer / SRE roles. Remot
 
 <div align="center">
 
+[![ripe](https://github-readme-stats.vercel.app/api/pin/?username=nogoth&repo=ripe&theme=tokyonight)](https://github.com/nogoth/ripe)
 [![planefs](https://github-readme-stats.vercel.app/api/pin/?username=nogoth&repo=planefs&theme=tokyonight)](https://github.com/nogoth/planefs)
 [![geminon](https://github-readme-stats.vercel.app/api/pin/?username=nogoth&repo=geminon&theme=tokyonight)](https://github.com/nogoth/geminon)
 
@@ -93,7 +94,7 @@ Open to Infrastructure Engineer / Senior SWE / Staff Engineer / SRE roles. Remot
 ## Work Experience
 
 ### Infrastructure Engineer (Independent) · Oct 2025–Present
-*planefs, geminon (see above)*
+*ripe, planefs, geminon (see above)*
 
 ### Software Development Engineer in Test · Workiva · Jun 2023–Sep 2025
 - 🔐 FIPS 140-2 compliance test suites (Kotlin/Java)
