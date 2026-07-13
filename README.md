@@ -21,9 +21,9 @@ Open to Infrastructure Engineer / Senior SWE / Staff Engineer / SRE roles. Remot
 
 <div align="center">
 
-[![ripe](https://github-readme-stats.vercel.app/api/pin/?username=nogoth&repo=ripe&theme=tokyonight)](https://github.com/nogoth/ripe)
-[![planefs](https://github-readme-stats.vercel.app/api/pin/?username=nogoth&repo=planefs&theme=tokyonight)](https://github.com/nogoth/planefs)
-[![geminon](https://github-readme-stats.vercel.app/api/pin/?username=nogoth&repo=geminon&theme=tokyonight)](https://github.com/nogoth/geminon)
+- Rust Internet Pipe Engine, turn RSS/JSON/CSV into combined rss feeds [![ripe](https://github-readme-stats.vercel.app/api/pin/?username=nogoth&repo=ripe&theme=tokyonight)](https://github.com/nogoth/ripe)
+- Plan9 like filestem, exposing LLMs/MCP as filesystem commands for pipelines [![planefs](https://github-readme-stats.vercel.app/api/pin/?username=nogoth&repo=planefs&theme=tokyonight)](https://github.com/nogoth/planefs)
+- Geminon, various tools and utilities for LLMs [![geminon](https://github-readme-stats.vercel.app/api/pin/?username=nogoth&repo=geminon&theme=tokyonight)](https://github.com/nogoth/geminon)
 
 </div>
 
